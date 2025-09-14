@@ -1,4 +1,4 @@
-th # Linear Regression - Complete Mastery Guide
+# Linear Regression - Complete Mastery Guide
 
 ## 📚 Table of Contents
 1. [Introduction & Fundamentals](#introduction--fundamentals)
