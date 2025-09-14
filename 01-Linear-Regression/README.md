@@ -140,7 +140,7 @@ After completing this module, you'll understand:
 
 Once you've mastered linear regression, you're ready for:
 
-1. **[02-Logistic-Regression](../02-Logistic-Regression/)** - Classification problems
+1. **Logistic Regression** - Classification problems (coming soon!)
 2. **Multiple Linear Regression** - Advanced features and regularization
 3. **Polynomial Regression** - Non-linear relationships
 4. **Neural Networks** - Building on gradient descent concepts

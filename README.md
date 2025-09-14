@@ -17,11 +17,6 @@ A comprehensive, hands-on machine learning repository designed for both personal
 | Topic | Status | Description |
 |-------|--------|-------------|
 | **[01-Linear-Regression](./01-Linear-Regression/)** | ✅ Complete | Foundational supervised learning with comprehensive theory and implementation |
-| **[02-Logistic-Regression](./02-Logistic-Regression/)** | 🚧 Coming Soon | Binary and multiclass classification |
-| **[03-Neural-Networks](./03-Neural-Networks/)** | 🚧 Coming Soon | Feedforward networks and backpropagation |
-| **[04-Deep-Learning](./04-Deep-Learning/)** | 🚧 Coming Soon | CNNs, RNNs, and advanced architectures |
-| **[05-Unsupervised-Learning](./05-Unsupervised-Learning/)** | 🚧 Coming Soon | Clustering, PCA, and dimensionality reduction |
-| **[06-Model-Evaluation](./06-Model-Evaluation/)** | 🚧 Coming Soon | Cross-validation, metrics, and model selection |
 
 ### Supporting Resources
 
@@ -109,11 +104,14 @@ Each topic follows a consistent structure:
 ## 📈 Progress Tracking
 
 - [x] **Linear Regression**: Complete theory and implementation ✅
-- [ ] **Logistic Regression**: Planning phase 🚧
-- [ ] **Neural Networks**: Planning phase 🚧
-- [ ] **Deep Learning**: Planning phase 🚧
-- [ ] **Unsupervised Learning**: Planning phase 🚧
-- [ ] **Model Evaluation**: Planning phase 🚧
+
+## 🔮 Future Plans
+
+- **Logistic Regression**: Binary and multiclass classification
+- **Neural Networks**: Feedforward networks and backpropagation  
+- **Deep Learning**: CNNs, RNNs, and advanced architectures
+- **Unsupervised Learning**: Clustering, PCA, and dimensionality reduction
+- **Model Evaluation**: Cross-validation, metrics, and model selection
 
 ## 🤝 Contributing
 
